@@ -1,0 +1,25 @@
+.recipe-detail-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.recipe-detail-page h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.recipe-detail-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.recipe-detail-description {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+}
